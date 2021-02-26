@@ -1,3 +1,3 @@
 # Консольная викторина на JS
 
-Запуск: <code>node runner cool_questions</code>
+Запуск: <code>node runner cool_questions.txt</code>

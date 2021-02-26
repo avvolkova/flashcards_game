@@ -4,11 +4,5 @@
 Жой?
 цив
 
-Мы молодцы?
-true
-
-Where do Common Nighthawks spend the winter?
-South America
-
-True or false?  Bullbat is another name for the Common Nighthawk.
+Я молодец?
 true
